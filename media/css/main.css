@@ -1,0 +1,62 @@
+.infos {
+    height: 100%;
+    margin-bottom: -20px;
+    padding: 10px 0px 20px 0px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.cover-container{
+    margin-top:70px;
+}
+
+footer{
+    height:35px;
+}
+
+#navbar, #footer{
+    background-color: #3E2723;
+    border-color: #3E2723;
+}
+
+#accueil{
+    background-color: #EFEBE9;
+    margin-top: -20px;
+    color: black;
+}
+
+#experiences{
+   background-color: #6D4C41;
+}
+
+#formation{
+    background-color: #BCAAA4;
+}
+
+#bdd{
+    background-color: #A1887F;
+}
+
+#programmation{
+    background-color: #8D6E63;
+}
+
+#langue{
+   background-color: #795548;
+}
+
+#passions{
+    background-color: #D7CCC8;
+    color:black;
+}
+
+#passions a{
+    color:black;
+    font-style: italic;
+}
+
+h1 {
+    color: #CDDC39;
+}

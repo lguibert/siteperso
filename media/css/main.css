@@ -1,7 +1,25 @@
 .infos {
     height: 100%;
     margin-bottom: -20px;
-    padding: 10px 0px 20px 0px;
+    padding: 10px 0 20px 0;
+}
+.containerInfo{
+    display: none;
+}
+
+.infos p, .infos li{
+    font-size: 25px;
+}
+
+.infos .content{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top:40%;
+}
+
+.infos li{
+    text-align: left;
 }
 
 ul li{
@@ -50,6 +68,7 @@ footer{
 #passions{
     background-color: #D7CCC8;
     color:black;
+    margin-top: -20px;
 }
 
 #passions a{

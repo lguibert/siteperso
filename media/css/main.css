@@ -18,8 +18,12 @@
     top:40%;
 }
 
-.infos li{
+.infos ul{
     text-align: left;
+}
+
+.infos ul li{
+
 }
 
 ul li{
